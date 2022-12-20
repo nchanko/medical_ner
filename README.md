@@ -2,6 +2,9 @@
 Name Entity Recognition model that can detect SYMPTOM,DISEASE,DRUG and LAB.
 The model is trained on private dataset using SPACY. 
 use case.
+1. Download [model_best](https://drive.google.com/file/d/1T1aW8VkfRv0hN03bHjVLZYdMDVzFj0DQ/view?usp=sharing)
+2. Unzip the folder.
+3. Load the model folder.
 
 ``` 
 import spacy
